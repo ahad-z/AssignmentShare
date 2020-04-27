@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+.error{
+
+	color:red;
+	font-style: italic;
+	font-weight: 700;
+
+}
+.footer-area{
+
+	background: #32A4ED;
+	text-align: center;
+	padding: 20px 0;
+	color: #fff;
+	margin-top: 20px;
+
+
+
+}
+.footer-area p{
+
+	margin: 0px;
+=======
+.error{
+
+	color:red;
+	font-style: italic;
+	font-weight: 700;
+
+}
+.footer-area{
+
+	background: #32A4ED;
+	text-align: center;
+	padding: 20px 0;
+	color: #fff;
+	margin-top: 20px;
+
+
+
+}
+.footer-area p{
+
+	margin: 0px;
+>>>>>>> 1f4d3da489573e5a286349867f04cd46260671da
+}
